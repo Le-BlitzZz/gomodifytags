@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/fatih/gomodifytags/modifytags"
+	"github.com/Le-BlitzZz/gomodifytags/modifytags"
 )
 
 var update = flag.Bool("update", false, "update golden (.out) files")

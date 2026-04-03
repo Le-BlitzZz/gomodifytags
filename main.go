@@ -18,8 +18,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/fatih/gomodifytags/modifytags"
-	"golang.org/x/tools/go/buildutil"
+	"github.com/Le-BlitzZz/gomodifytags/modifytags"
+	"github.com/Le-BlitzZz/tools/go/buildutil"
 )
 
 // structType contains a structType node and it's name. It's a convenient
